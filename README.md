@@ -1,3 +1,5 @@
+It's kinda some random text rn, someday i'll find an hour to write about files and how to launch)
+
 The goal of my work was to create a system with the ability to configure without interference in the source code and that would perform only specified actions on the data, depending on the configurations installed by user. Thus I wanted to get a universal tool for streaming data processing.
 
 Цель моей работы заключалась в создании системы с возможностью конфигурирования без вмешательства в исходный код и способную в зависимости от конфигураций, установленных пользователем, выполнять только указанные действия над данными. Таким образом я хотел получить универсальное средство потоковой обработки данных.
